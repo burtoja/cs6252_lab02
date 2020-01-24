@@ -38,8 +38,8 @@ $statement->closeCursor();
 
     <main>
         <h1>Edit Product</h1>
-        <form action="add_product.php" method="post"
-              id="add_product_form">
+        <form action="edit_product.php" method="post"
+              id="edit_product_form">
 
             <label>Category:</label>
             <select name="category_id">
